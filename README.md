@@ -1,2 +1,2 @@
 # mat-discreta
- Matemática Discreta na Faculdade
+ Matemática Discreta na Faculdade - (2° Semestre).
